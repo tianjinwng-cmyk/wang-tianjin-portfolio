@@ -36,7 +36,14 @@ Independently initiated and developed the project, with responsibilities includi
 
 ## 5. Screenshots
 
-Application screenshots and demonstrations will be added here.
+### Home Screen
+![Home Screen](assets/screenshots/home.png)
+
+### Card Drawing
+![Card Drawing](assets/screenshots/drawing.png)
+
+### Reading Result
+![Reading Result](assets/screenshots/result.png)
 
 ## 6. Project Status
 
